@@ -28,6 +28,10 @@
 
 ### Screenshots
 
+* Test Cases
+
+ ![Screenshot](screenshots/TestCases.jpg)
+ 
 * Public API
 
  ![Screenshot](screenshots/Public-API.jpg)
