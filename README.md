@@ -29,12 +29,12 @@
 
 * Public API
 
- ![Screenshot](screenshots/public-API.jpg)
+ ![Screenshot](screenshots/Public-API.jpg)
  
 * Private API with No Auth
 
- ![Screenshot](screenshots/private-API-NoAuth.jpg)   
+ ![Screenshot](screenshots/Private-API-NoAuth.jpg)   
  
 * Private API with Basic Auth
  
- ![Screenshot](screenshots/private-API.jpg)
+ ![Screenshot](screenshots/Private-API.jpg)
