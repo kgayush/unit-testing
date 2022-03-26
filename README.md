@@ -16,7 +16,7 @@
 
 * Download NodeJS `https://nodejs.org/en/download/`
 * Open the terminal, enter in **unit-testing** directory using `cd unit-testing/`
-* Install libraries using `npm i dotenv express`
+* Install libraries using `npm i basic-auth dotenv express`
 * Install dev dependencies `npm i chai mocha --save-dev`
 * Git
 
