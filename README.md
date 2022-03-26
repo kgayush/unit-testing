@@ -22,6 +22,7 @@
 
 ### Running Test Cases
 
+* Write `mocha` in **test** script in **package.json** file.
 * npm run test
 
 
